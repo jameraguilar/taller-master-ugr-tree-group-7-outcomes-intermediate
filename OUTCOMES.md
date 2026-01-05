@@ -115,20 +115,20 @@ Rate your confidence level for each topic (1-5, where 5 is very confident):
 
 | Topic | Confidence (1-5) | Notes |
 |-------|------------------|-------|
-| Basic Git commands | [4] | |
-| Branching & merging | [3] | |
-| Remote operations | [3] | |
-| Conflict resolution | [3] | |
-| History rewriting | [4] | |
-| Git hooks | [3] | |
-| Security practices | [3] | |
+| Basic Git commands | [4] | Add/commit process fully understood. |
+| Branching & merging | [4] | Parallel branch management included. |
+| Remote operations | [3] | Due to the not entirely clear permissions error |
+| Conflict resolution | [3] | In the process of learning |
+| History rewriting | [4] | Well, but we need to practice more. |
+| Git hooks | [3] | Well, but we need to practice more. |
+| Security practices | [3] | Well, but we need to practice more. |
 
 ---
 
 ## 🔗 Evidence/Artifacts
 
 **Links to branches/commits**:
-- Link to your outcome branch: `https://github.com/miguel-oltra/taller-master-ugr/tree/group-X-outcomes/[level]`
+- Link to your outcome branch: `https://github.com/jameraguilar/taller-master-ugr-tree-group-7-outcomes-intermediate/blob/main/OUTCOMES.md`
 - Key commits demonstrating your work:
   - Commit hash: [Short description]
   - Commit hash: [Short description]
